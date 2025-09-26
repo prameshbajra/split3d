@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Project specific settings
+AGENTS.md
+out/*
+*.3mf
+*.stl
+*.obj
